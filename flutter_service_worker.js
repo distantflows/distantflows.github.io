@@ -58,7 +58,8 @@ const RESOURCES = {
 ".git/objects/f1/58339c49f252144b0e665ab8aed9b52b99dca3": "fba69544fe09d78646ccfa6606e51ef6",
 ".git/refs/heads/main": "07a7d2971e01382d51551c978317f330",
 ".git/refs/remotes/origin/main": "07a7d2971e01382d51551c978317f330",
-"assets/AssetManifest.json": "7a140c67c0e4dc2b231e8912d99a9dd3",
+"assets/AssetManifest.json": "9217ba3c32dd2c769fcb0e04aa1d54d6",
+"assets/assets/frend.jpg": "ad98922f6d8d6dd09ef3c7612b6b2fc2",
 "assets/assets/synth0.png": "889403f5dcc3f4a80b59bbd0cf2ff482",
 "assets/assets/synth1.jpg": "7ca64cd169dde7fd93279aaf94b6d28c",
 "assets/assets/synth2.jpg": "48313b4fafd5952a38c75a720717478b",
@@ -73,9 +74,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f0b3a68779a6abf8665fc9e6efab76ad",
-"/": "f0b3a68779a6abf8665fc9e6efab76ad",
-"main.dart.js": "05ce6052deb7b717c6032d7052f97aaf",
+"index.html": "c29f23d8b44d02f3afe389da5e97b7e1",
+"/": "c29f23d8b44d02f3afe389da5e97b7e1",
+"main.dart.js": "d6b4b8de513938a9c61f58466ba2d6b7",
 "manifest.json": "b581bd7751b787ff50d4006cda493990",
 "version.json": "69e64945dd826c8da7bd83c0307d7db1"
 };
